@@ -1,10 +1,68 @@
 <style>
-	body {
-		width: ;
+/* Global */
+  header ul{
+  margin:0;
+  padding:0;  
+}
+	.container{
+		width: 80%;
+		margin:auto;
+		overflow:hidden;
 	}
-	.titlecolor-text {
-		color: B3D2FF;}
+	/* Header */
+	header {
+		background:#e7eff6;
+		color:#2a4d69;
+		padding-top:0px;
+		min-height:110px;
+		border-bottom:#152634 5px solid;
+	}
 
-	.background-color {
-		color: 33527F;}
+	header a{
+		color:#2a4d69;
+		text-decoration:none;
+		text-transform: uppercase;
+    font: 15px/1.5 Arial narrow, Helvetica;
+}
+  header a:hover{
+  color:#04070a;
+  font-weight:bold;
+}
+  header #maintitle{
+  float: left;
+  margin-top:10px;
+  margin-left:50px;
+  font-family:Arial Narrow;
+}
+  header #maintitle h1{
+  margin:0;
+}
+  #nav{
+  float: right;
+  color: #2a4d69;
+  margin-top:10px;
+  margin-right:50px;
+}
+  #quotetext{
+  background-color:#e7eff6;
+  color:#2a4d69;
+  padding-top:0px;
+  min-width:80px;
+  font-family: Arial Narrow;
+}
+/* Showcase */
+  #showcase{
+  background:url('http://endinghiv.org.au/nsw/wp-content/uploads/2016/09/kharing_pic.jpg') no repeat;
+  text-align:center;
+}
+  #quotetext{
+  padding:15px;
+}
+/* Body */
+  body #biography{
+	margin:0;
+	color:#0FFFFF;
+	text-align:center;
+}
+
 </style>
