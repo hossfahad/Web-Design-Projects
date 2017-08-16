@@ -1,73 +1,130 @@
-<style>
 /* Global */
-  header ul{
-  margin:0;
-  padding:0;  
+ header ul{
+ margin:0;
+ padding:0;  
 }
-	.container{
-		width: 80%;
-		margin:auto;
-		overflow:hidden;
-	}
-	/* Header */
-	header {
-		background:#e7eff6;
-		color:#2a4d69;
-		padding-top:0px;
-		min-height:110px;
-		border-bottom:#152634 5px solid;
-	}
+ .container{
+   width: 90%;
+   margin:auto;
+   overflow:hidden;
+ }
+ /* Header */
+ header {
+   background:#e7eff6;
+   color:#2a4d69;
+   padding-top:0px;
+   min-height:110px;
+   border-bottom:#152634 5px solid;
+ }
 
-	header a{
-		color:#2a4d69;
-		text-decoration:none;
-		text-transform: uppercase;
-    font: 15px/1.5 Arial narrow, Helvetica;
+ header a{
+   color:#2a4d69;
+   text-decoration:none;
+   text-transform: uppercase;
+   font: 15px/1.5 Arial narrow, Helvetica;
 }
-  header a:hover{
-  color:#04070a;
-  font-weight:bold;
+ header a:hover{
+ color:#04070a;
+ font-weight:bold;
 }
-  header #maintitle{
-  float: left;
-  margin-top:10px;
-  margin-left:50px;
-  font-family:Arial Narrow;
+ header #maintitle{
+ float: left;
+ margin-top:10px;
+ margin-left:50px;
+ font-family:Arial Narrow;
 }
-  header #maintitle h1{
-  margin:0;
+ header #maintitle h1{
+ margin:0;
+ font-family: 'Faustina', serif;
 }
-  #nav{
-  float: right;
-  color: #2a4d69;
-  margin-top:10px;
-  margin-right:50px;
+ #nav{
+ float: right;
+ color: #2a4d69;
+ margin-top:10px;
+ margin-right:50px;
 }
-  #quotetext{
-  background-color:#e7eff6;
-  color:#2a4d69;
-  padding-top:0px;
-  min-width:80px;
-  font-family: Arial Narrow;
+img #keithlanding{
+  margin: 0;
+  
 }
-/* Showcase */
-  #showcase{
-  background:url('http://endinghiv.org.au/nsw/wp-content/uploads/2016/09/kharing_pic.jpg') no repeat;
-  text-align:center;
+ #quotetext{
+ background-color:#e7eff6;
+ color:#2a4d69;
+ padding-top:0px;
+ min-width:80px;
+ font-family: Arial Narrow;
+ font-size: 20px;
+ border-top:#152634 5px solid;
 }
-  #quotetext{
-  padding:15px;
+ #quotetext{
+ padding:15px;
 }
 /* Body */
-  body #biography{
-	margin:0;
-	color:#0FFFFF;
-	text-align:center;
+body .Biography{
+ margin:0;
+ text-align:center;
+ font-size: 30px;
+ font-family: 'Faustina', serif;
+}
+body .Matureprd{
+  text-align:center;
+  font-size: 30px;
+  font-family: 'Faustina', serif;
 }
 body #bodyquote{
-  color:#707b7c;
-  font-family:Arial Narrow;
-  font-size:18px;
+ color:#707b7c;
+ font-family:Arial Narrow;
+ font-size:18px;
 }
 
-</style>
+body #biographytext{
+  font-family: Arial Narrow;
+  font-size: 20px;
+}
+
+body #maturetext{
+  font-family: Arial Narrow;
+  font-size: 20px;
+}
+body #quoteextend{
+  font-size: 25px;
+  font-family: Tahoma;
+  color: #152634
+}
+body .NotableWork{
+  font-size: 30px;
+  font-family: 'Faustina', serif;
+  text-align:center;
+}
+.image1{
+  width: 300px;
+  height: auto;
+}
+.image2{
+  max-width: 300px;
+  height: auto;
+  margin-left: 5%;
+}
+.image3{
+  max-width: 300px;
+  height: auto;
+}
+.image4{
+  max-width: 300px;
+  height: auto;
+  margin-left: 5%;
+}
+
+footer {
+   background:#e7eff6;
+   color:#2a4d69;
+   padding-top:0px;
+   min-height:110px;
+   border-top:#152634 5px solid;
+ }
+footer a{
+ color:#2a4d69;
+ text-decoration:none;
+ text-transform: uppercase;
+ font: 15px/1.5 Arial narrow, Helvetica;
+}
