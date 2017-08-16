@@ -2,6 +2,6 @@
 
 Quick project - Quick write up of a tribute page dedicated to the great Keith Haring.
 
-Codepen - https://codepen.io/fahahahad/pen/VzMKRN
+Codepen - https://codepen.io/fahahahad/pen/NvwyVv
 
-Made strictly in html/css. WIP but will be updated from time to time.
+Made strictly in html/css.
