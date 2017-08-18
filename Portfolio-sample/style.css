@@ -1,0 +1,85 @@
+.w3-bar{
+  background-color:#B3DFC6;
+}
+
+.brand {
+  font-family: Arial Narrow;
+  font-size:18px;
+}
+
+.nav {
+  font-family: Arial Narrow;
+  font-size: 18px;
+  color: #265a3c;
+}
+
+.showcase {
+  background: url('img/test1.jpg');
+  background-position:top;
+  background-color: #b3dfc6;
+  height: 550px;
+  padding: 140px 100px;
+  color: #265a3c;
+}
+
+.showcase hr {
+  width: 100px;
+  margin: auto;
+  border-width: 3px;
+  border-top: 1px solid ##2AE6E7;
+}
+.showcase h1 {
+  font-family: Arial Narrow;
+  font-size: 40px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+  .showcase .starthere {
+  font-family: Arial Narrow;
+  background-color: transparent;
+  color: #FFFFFF;
+}
+
+.first{
+  background: url('img/firstbg.jpg');
+  background-position: top;
+  height: 400px;
+  padding: 100px 0;
+}
+
+.first h2{
+  font-family: Arial Narrow;
+  padding:0;
+  margin:0;
+}
+
+.first .fa{
+  font-size:50px;
+}
+
+.about{
+  padding-top: 100px;
+  padding-bottom: 10px 0;
+}
+
+.about h2{
+  font-family: Arial Narrow;
+  padding:10px;
+  margin:0;
+}
+
+.about .fa{
+  font-size:50px;
+}
+
+.about hr{
+  width: 400px;
+  margin: auto;
+  border-width: 1px;
+  border-top: 1px solid ##2AE6E7;
+}
+
+.about img{
+  padding-top: 25px;
+  background-position: center;
+}
