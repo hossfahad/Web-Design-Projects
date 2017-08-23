@@ -1,5 +1,5 @@
 .w3-bar{
-  background-color:#B3DFC6;
+  background-color: transparent;
 }
 
 .brand {
@@ -14,58 +14,141 @@
 }
 
 .showcase {
+  color: #051515;
   background: url('img/test1.jpg');
   background-position:top;
-  background-color: #b3dfc6;
-  height: 550px;
+  background-color: #c2f0f0;
+  height: 500px;
   padding: 140px 100px;
-  color: #265a3c;
+  color: #051515;
 }
 
 .showcase hr {
-  width: 100px;
+  width: 150px;
   margin: auto;
   border-width: 3px;
-  border-top: 1px solid ##2AE6E7;
+  border-top: 1px solid #051515;
 }
 .showcase h1 {
+  color: #051515;
   font-family: Arial Narrow;
-  font-size: 40px;
+  font-size: 45px;
   font-weight: 700;
   text-transform: uppercase;
+  text-align: center;
 }
   .showcase .starthere {
   font-family: Arial Narrow;
+  font-size: 20px;
   background-color: transparent;
-  color: #FFFFFF;
+  color: #051515;
+}
+
+.showcase .main_text {
+  font-family: Arial Narrow;
+  font-size: 20px;
 }
 
 .first{
-  background: url('img/firstbg.jpg');
+  background-color:#051515;
   background-position: top;
-  height: 400px;
-  padding: 100px 0;
+  height: 500px;
+  padding: 10px;
+}
+
+.first h1 {
+  color: #c2f0f0;
+  font-family: Arial Narrow;
+  font-size: 35px;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.first hr {
+  width: 150px;
+  margin: auto;
+  border-width: 3px;
+  border-top: 1px solid #c2f0f0;
 }
 
 .first h2{
+  color: #c2f0f0;
   font-family: Arial Narrow;
-  padding:0;
+  text-align: center;
   margin:0;
 }
 
+.first .ptext {
+  font-family: Arial Narrow;
+  font-size: 20px;
+  color: #c2f0f0;
+
+}
+
 .first .fa{
+  color: #c2f0f0;
   font-size:50px;
 }
 
+.first .github {
+  text-align: left;
+  width: 33%;
+  font-family: Arial Narrow;
+  font-size: 25px;
+  background-color: transparent;
+  color: #FFF;
+}
+
+.first .inner {
+  display: inline-block;
+  width: auto;
+}
+
+.first #outer {
+  width:auto;
+  text-align: center;
+}
+.first .github {
+text-align: left;
+width: auto;
+font-family: Arial Narrow;
+background-color: transparent;
+color: #FFF;
+}
+.first .linkedin {
+  text-align: center;
+  width: auto;
+  font-family: Arial Narrow;
+  background-color: transparent;
+  color: #FFF;
+}
+.first .resume {
+  text-align: center;
+  width: auto;
+  font-family: Arial Narrow;
+  background-color: transparent;
+  color: #FFF;
+}
+.first .porticon {
+  padding: 10px;
+}
+div #contactspace {
+  width: auto;
+}
 .about{
-  padding-top: 100px;
-  padding-bottom: 10px 0;
+  color: #051515;
+  background-position:top;
+  background-color: #c2f0f0;
+  height: 500px;
+  padding: 140px;
+  color: #051515;
 }
 
 .about h2{
   font-family: Arial Narrow;
   padding:10px;
-  margin:0;
+  margin:auto;
 }
 
 .about .fa{
@@ -73,13 +156,22 @@
 }
 
 .about hr{
-  width: 400px;
+  width: 150px;
   margin: auto;
   border-width: 1px;
-  border-top: 1px solid ##2AE6E7;
+  border-top: 1px solid #051515;
 }
 
 .about img{
-  padding-top: 25px;
-  background-position: center;
+  position: relative;
+  padding: 0px;
+  background-position: top;
+}
+.footer .endstrip {
+  width: 200px 100px;
+  background-color: #EEE;
+}
+.about .footer-icon {
+ text-align: right;
+ padding: 20px;
 }
