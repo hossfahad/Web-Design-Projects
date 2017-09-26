@@ -1,4 +1,4 @@
-#RESPONSIVE NAVBAR
+# Responsive Navigation-Bar
 
 CodePen Link: https://codepen.io/fahahahad/pen/pWRKJe
 
